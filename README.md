@@ -62,5 +62,5 @@
 <h2>📫 Contact Me</h2>
 
 <p>
-  Feel free to reach out via <a href="mailto:ahmadsyedshah123@gmail.com">email</a> or connect with me on <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmad-shah-674989224)">LinkedIn</a>.
+  Feel free to reach out via <a href="mailto:ahmadsyedshah123@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/ahmad-shah-674989224">LinkedIn</a>.
 </p>
