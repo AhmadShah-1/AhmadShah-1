@@ -35,21 +35,18 @@
     <p>Developed a system to assist the visually impaired in interacting with their environment through visual interpretation and obstacle avoidance systems.</p>
   </li>
   <li>
-    <h3><a href="https://github.com/AhmadShah-1/DroneProjectRepo">Drone Project</a></h3>
-    <p>Implemented template matching and pretrained models for object tracking in drones, enhancing detection processes.</p>
+    <h3><a href="https://github.com/AhmadShah-1/DREUS_Project_NSF">DREUS_Project_NSF</a></h3>
+    <p>Utilized drones for disaster scenarios like earthquakes and floods to aid in rescue and relief operations.</p>
   </li>
   <li>
     <h3><a href="https://github.com/AhmadShah-1/Arduino-Based-Redundant-Transmission-for-Buoy-Networks">Arduino-Based Redundant Transmission for Buoy Networks</a></h3>
     <p>Designed a system utilizing Arduinos to monitor oceanographic parameters, ensuring reliable data collection in marine environments.</p>
   </li>
   <li>
-    <h3><a href="https://github.com/AhmadShah-1/AI_Trading_Bot">AI Trading Bot</a></h3>
-    <p>Developed an AI-driven trading bot to analyze market trends and execute trades autonomously.</p>
+    <h3><a href="https://github.com/AhmadShah-1/CS546_Final_Project">Fitness Tracker App</a></h3>
+    <p>The Fitness Web Application is a comprehensive tool designed to help users set, track, and achieve their fitness goals</p>
   </li>
-  <li>
-    <h3><a href="https://github.com/AhmadShah-1/Drone-in-Disaster">Drone in Disaster</a></h3>
-    <p>Utilized drones for disaster scenarios like earthquakes and floods to aid in rescue and relief operations.</p>
-  </li>
+
 </ul>
 
 ---
