@@ -7,9 +7,10 @@
 
 ---
 
-<h2>About Me</h2>
+<!-- About Me Section with centered, pink text -->
+<h2 style="text-align: center; color: pink;">About Me</h2>
 
-<p>
+<p style="text-align: center; color: pink;">
   I'm a passionate Software Engineer with a strong background in web development, machine learning architectures—particularly in computer vision—and data analysis. I thrive on creating innovative solutions that bridge technology and real-world challenges.
 </p>
 
@@ -44,9 +45,8 @@
   </li>
   <li>
     <h3><a href="https://github.com/AhmadShah-1/CS546_Final_Project">Fitness Tracker App</a></h3>
-    <p>The Fitness Web Application is a comprehensive tool designed to help users set, track, and achieve their fitness goals</p>
+    <p>The Fitness Web Application is a comprehensive tool designed to help users set, track, and achieve their fitness goals.</p>
   </li>
-
 </ul>
 
 ---
