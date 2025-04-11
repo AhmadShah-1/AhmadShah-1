@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello, I'm Syed Ahmad Shah!</h1>
 
 <p align="center">
-  <a href="https://www.ahmadshah.dev/">Portfolio</a> |
   <a href="https://github.com/AhmadShah-1">GitHub</a>
+  <a href="https://www.ahmadshah.dev/">Portfolio</a> |
+  <a href="https://www.ahmadshah.dev/">Resume</a> |
+  
 </p>
 
 ---
