@@ -52,15 +52,16 @@ h2>
 
 </ul>
 
-<!--
+
 ---
+<!--
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadShah-1&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
----
 -->
+---
 
 <h2>📫 Contact Me</h2>
 
