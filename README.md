@@ -17,8 +17,7 @@
 
 ---
 
-<h2>🔧 Skills & Expertise</
-h2>
+<h2>🔧 Skills & Expertise</h2>
 
 <ul>
   <li>💻 <strong>Programming Languages:</strong> Python, JavaScript, Swift, Java</li>
