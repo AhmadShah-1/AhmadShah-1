@@ -17,7 +17,8 @@
 
 ---
 
-<h2>🔧 Skills & Expertise</h2>
+<h2>🔧 Skills & Expertise</
+h2>
 
 <ul>
   <li>💻 <strong>Programming Languages:</strong> Python, JavaScript, Swift, Java</li>
@@ -51,15 +52,15 @@
 
 </ul>
 
+<!--
 ---
-
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadShah-1&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
 ---
+-->
 
 <h2>📫 Contact Me</h2>
 
