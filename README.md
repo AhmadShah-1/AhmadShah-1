@@ -4,7 +4,7 @@
   <a href="https://github.com/AhmadShah-1">GitHub</a> |
   <a href="https://www.ahmadshah.dev/">Portfolio</a> |
   <a href="./Syed Ahmad Shah Resume0-SoftwareFocused.pdf">Resume</a> |
-  <a href="www.linkedin.com/in/ahmad-shah-674989224">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ahmad-shah-674989224/">LinkedIn</a>
 </p>
 
 ---
