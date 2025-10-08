@@ -59,9 +59,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadShah-1&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadShah-1&theme=radical)](https://git.io/streak-stats)
+
 -->
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadShah-1&theme=radical)](https://git.io/streak-stats)
 
 <h2>📫 Contact Me</h2>
 
